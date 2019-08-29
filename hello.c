@@ -1,5 +1,8 @@
 /**
+* Author: Lucas Bigelow
+* Date: 8/28/2019
 *
+* This program prints names.
 */
 
 #include <stdio.h>
